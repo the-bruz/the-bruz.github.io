@@ -2,6 +2,8 @@
 
 ## Bunch of Examples
 
+![sharkicon](sharkicon.png)
+
 **I am a styling text!**
 
 > I am a quoting text!!

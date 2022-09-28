@@ -14,7 +14,7 @@ I am a quoting code!!!
 
 [I am a section link!!!!!](#bunch-of-examples)
 
-[I am a relative link!!!!!!](readme.md)
+[I am a relative link!!!!!!](README.md)
 
 * I am a unordered list!!!!!!!
 * I am a unordered list!!!!!!!
